@@ -1,5 +1,5 @@
-Username = "admin"
-Password = "1234"
+Username = "Tanin"
+Password = "Tor2307"
 
 input_username = input("กรุณากรอก Username: ")
 input_password = input("กรุณากรอก Password: ")
